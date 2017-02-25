@@ -1,0 +1,3 @@
+Este proyecto pretende creae un Framework de clases universal para la utilización de algoritmos genéticos
+
+Autor: Jose Vicente Lozano Copa
